@@ -3,7 +3,8 @@ import React, { Component } from "react";
 const youtubeLink = {
   'Windows 7, Vista and XP': "https://www.youtube.com/embed/wGWrXofjIyo",
   'Windows 10 and 8.x': "https://www.youtube.com/embed/kq1NFCbR1wI",
-  'Android': "https://www.youtube.com/embed/g5Ic1tcg_OY"
+  'Android': "https://www.youtube.com/embed/g5Ic1tcg_OY",
+  'Chromebook': "https://www.youtube.com/embed/JNzDIMoaMSc"
 };
 
 export default class VideoInstructions extends Component {
